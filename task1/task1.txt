@@ -1,0 +1,6 @@
+5619547045cedb3397d7f1cd    https://news.microsoft.com/exec/harry-shum/    m        https://assets.onestore.ms/cdnfiles/external/uhf/long/9a49a7e9d8e881327e81b9eb43dabc01de70a9bb/images/microsoft-gray.png    email    
+53f43a7edabfaec09f1a3e5a    http://www.eie.polyu.edu.hk/home/academic-staff.html    m    and Lecturer;Chair    images/polyu_logo_2015.png    enpklun@polyu.edu.hkDaniel,    
+54858648dabfaed7b5fa235d    https://ai.vub.ac.be/members/ann-nowe    m    a professor;chair    https://ai.vub.ac.be/sites/default/files/78cd0d75be9b852690d921e613cb1789.media_.jpeg    ann.nowe@vub.ac.be    Vrije Universiteit Brussel
+54083202dabfae8faa6301a1    https://eesa.lbl.gov/profiles/donald-j-depaolo/    m        photo    email    
+562da43145ce1e59679fd606    https://www.nae.edu/42056.aspx    m        /common/images/person/empty-person-custom.png    NAEMembershipOffice@nae.edu    
+5429a7e9dabfae864af8bd0c    http://www.tsinghua.edu.cn/publish/eea/1701/2010/20101220095500704964158/20101220095500704964158_.html    m    电机系 副教授    /publish/eea/1701/20150518/4431431934327811.jpg    ying@mail.tsinghua.edu.cn    
